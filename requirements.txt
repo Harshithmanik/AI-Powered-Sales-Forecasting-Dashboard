@@ -1,0 +1,35 @@
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+
+# Visualization Libraries
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.10.0
+
+# Time Series and Statistical Analysis
+statsmodels>=0.13.0
+
+# Utility Libraries
+datetime
+warnings
+
+# Optional: Advanced ML Libraries
+xgboost>=1.6.0
+prophet>=1.1.0
+
+# Development and Testing
+jupyter>=1.0.0
+notebook>=6.4.0
+
+# Data Processing
+openpyxl>=3.0.0  # For Excel file handling
+xlrd>=2.0.0      # For reading Excel files
+
+# Web Framework (if deploying)
+flask>=2.0.0
+streamlit>=1.10.0
+
+# Environment Management
+python-dotenv>=0.19.0
