@@ -2,7 +2,13 @@
 
 A comprehensive machine learning solution for retail sales forecasting with interactive dashboard visualization.
 
-![Dashboard Preview](screenshots/dashboard_preview.png)
+<img width="1862" height="1219" alt="Screenshot 2025-09-11 100104" src="https://github.com/user-attachments/assets/5e85fdbd-b960-474b-90f0-183c77ec120a" />
+
+<img width="1864" height="1051" alt="Screenshot 2025-09-11 100129" src="https://github.com/user-attachments/assets/d55fddb3-f668-42e2-a212-6657e01fc674" />
+
+<img width="1861" height="828" alt="Screenshot 2025-09-11 100210" src="https://github.com/user-attachments/assets/6a214262-c07f-436a-b986-c97c2421608a" />
+
+
 
 ## 🎯 Project Overview
 
@@ -146,12 +152,6 @@ The dashboard generates:
 - **Seasonal Indicators**: Holiday, weekend, summer flags
 - **Category Encoding**: Store, product, and region encoding
 
-## 📚 Documentation
-
-- [Project Overview](docs/project_overview.md)
-- [API Documentation](docs/api_reference.md)
-- [Data Schema](docs/data_schema.md)
-- [Deployment Guide](docs/deployment.md)
 
 ## 🤝 Contributing
 
@@ -161,21 +161,13 @@ The dashboard generates:
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🏆 Achievements
-
-- **Internship-Ready**: Production-level code quality
-- **Industry-Standard**: Follows best practices for ML projects  
-- **Scalable Architecture**: Modular design for easy extension
-- **Business-Focused**: Emphasis on actionable insights
 
 ## 📞 Contact
 
-**Your Name** - your.email@example.com  
-**Project Link**: https://github.com/yourusername/ai-sales-forecasting-dashboard
+**Your Name** - harshithmanik2004@gmail.com  
+**Project Link**: https://github.com/Harshithmanik/AI-Powered-sales-Forecasting-Dashboard
 
 ---
 ⭐ **Star this repo if you found it helpful!** ⭐
