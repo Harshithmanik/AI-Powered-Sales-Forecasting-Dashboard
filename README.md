@@ -166,7 +166,7 @@ The dashboard generates:
 
 ## 📞 Contact
 
-**Your Name** - harshithmanik2004@gmail.com  
+K.HARSHITH - harshithmanik2004@gmail.com  
 **Project Link**: https://github.com/Harshithmanik/AI-Powered-sales-Forecasting-Dashboard
 
 ---
